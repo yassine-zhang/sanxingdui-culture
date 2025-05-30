@@ -91,7 +91,7 @@ export default function Footer() {
             </Link>
             <span className="text-xs">电话：xxxx-xxxxxxx</span>
           </div>
-          <div className="text-xs">21数媒3班+何晓蓉 毕业设计</div>
+          <div className="text-xs">济宁若森软件开发中心（个人独资）</div>
         </div>
       </div>
     </footer>
